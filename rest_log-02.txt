@@ -1,0 +1,217 @@
+Jun 16 07:28:41 MyBookLive REST_API[28538]: 23.154.177.131 PARAMETER System_factory_restore POST : erase = format
+Jun 16 07:28:42 MyBookLive REST_API[28538]: 23.154.177.131 OUTPUT System_factory_restore POST SUCCESS 
+Jun 16 07:29:47 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 07:29:47 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 07:29:47 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT SystemApiComponent GETSTATE SUCCESS 
+Jun 16 07:29:47 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT DeviceApiComponent GETDEVICEREGISTERED SUCCESS 
+Jun 16 07:29:48 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 07:29:49 MyBookLive apache2[25173]: 185.100.87.41 WebUI::fw_version=02.43.10-048
+Jun 16 07:29:56 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 07:29:56 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 07:29:56 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT SystemApiComponent GETSTATE SUCCESS 
+Jun 16 07:29:56 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT DeviceApiComponent GETDEVICEREGISTERED SUCCESS 
+Jun 16 07:29:56 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 07:29:56 MyBookLive apache2[25173]: 185.100.87.41 WebUI::fw_version=02.43.10-048
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT SystemApiComponent GETSTATE SUCCESS 
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT DeviceApiComponent GETDEVICEREGISTERED SUCCESS 
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 OUTPUT  AUTHENTICATEASOWNER invalid password
+Jun 16 07:30:04 MyBookLive REST_API[25173]: 185.100.87.41 WEBUI OUTPUT UtilitiesApiComponent DOLOCALAUTHENTICATE UNAUTHORIZED
+Jun 16 07:30:05 MyBookLive apache2[25173]: 185.100.87.41 WebUI::fw_version=02.43.10-048
+Jun 16 07:30:20 MyBookLive REST_API[28538]: 185.220.102.250 OUTPUT System_factory_restore GET SUCCESS 
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI PagesController __CHECKLOGIN cookie ck= c=pages a=index 
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI PagesController __CHECKLOGIN session cleared relogin (ck= c=pages a=index)
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI OUTPUT SystemApiComponent GETSTATE SUCCESS 
+Jun 16 07:42:37 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI OUTPUT DeviceApiComponent GETDEVICEREGISTERED SUCCESS 
+Jun 16 07:42:38 MyBookLive REST_API[25173]: 91.219.236.228 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 07:42:38 MyBookLive apache2[25173]: 91.219.236.228 WebUI::fw_version=02.43.10-048
+Jun 16 08:14:44 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI PagesController __CHECKLOGIN cookie ck= c=pages a=index 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI PagesController __CHECKLOGIN session cleared relogin (ck= c=pages a=index)
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT SystemApiComponent GETSTATE SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT DeviceApiComponent GETDEVICEREGISTERED SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 08:14:45 MyBookLive REST_API[28538]: 45.153.160.134 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 08:14:46 MyBookLive apache2[28538]: 45.153.160.134 WebUI::fw_version=02.43.10-048
+Jun 16 08:15:00 MyBookLive REST_API[25173]: 162.247.74.27 OUTPUT System_factory_restore GET SUCCESS 
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA SUCCESS 
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 WEBUI OUTPUT SystemApiComponent GETSTATE SUCCESS 
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 WEBUI OUTPUT DeviceApiComponent GETDEVICEREGISTERED SUCCESS 
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 OUTPUT  AUTHENTICATEASOWNER invalid password
+Jun 16 08:15:06 MyBookLive REST_API[25175]: 45.153.160.134 WEBUI OUTPUT UtilitiesApiComponent DOLOCALAUTHENTICATE UNAUTHORIZED
+Jun 16 08:15:06 MyBookLive apache2[25175]: 45.153.160.134 WebUI::fw_version=02.43.10-048
+Jun 16 02:35:41 MyBookLive REST_API[5655]: Internal OUTPUT UserShares GETSHARES PARAMS: (shareName=SmartWare)
+Jun 16 02:35:41 MyBookLive REST_API[5655]: Internal OUTPUT UserShares CREATESHARE PARAMS: (shareName=SmartWare, shareDescription=SmartWare, publicAccess=true, mediaServing=none, remoteAccess=, dynamicVolume=false, capacity=, readOnly=, usbHandle=, fileSystemType=)
+Jun 16 02:35:41 MyBookLive REST_API[5655]: Internal OUTPUT UserSharesShell CREATESHARE PARAMS: (shareName=SmartWare, shareDescription=SmartWare)
+Jun 16 02:35:41 MyBookLive REST_API[5655]: Internal OUTPUT Sharelist CREATESHARE PARAMS: (shareName=SmartWare, shareDescription=SmartWare)
+Jun 16 02:35:41 MyBookLive REST_API[5655]: Internal OUTPUT Sharelist ISVALIDSHARENAME PARAMS: (shareName=SmartWare)
+Jun 16 02:35:41 MyBookLive REST_API[5655]: Internal OUTPUT Sharelist ISVALIDDESCRIPTION PARAMS: (shareName=SmartWare)
+Jun 16 02:35:42 MyBookLive REST_API[5655]: Internal OUTPUT ShareAccessShell UPDATESHAREACCESS PARAMS: (shareName=SmartWare, publicAccess=true, mediaServing=none, remoteAccess=)
+Jun 16 02:35:42 MyBookLive REST_API[5655]: Internal OUTPUT Acllist MODIFYACL PARAMS: (share=SmartWare, remote_access=, public_access=true, media_serving=none)
+Jun 16 02:35:42 MyBookLive REST_API[5655]: Internal OUTPUT Acllist GETACLS PARAMS: (shareName=SmartWare)
+Jun 16 02:35:42 MyBookLive REST_API[5655]: Internal OUTPUT Acllist ISPRIVATESHARE PARAMS: (shareName=SmartWare)
+Jun 16 02:35:51 MyBookLive REST_API[5929]: Internal OUTPUT UserShares GETSHARES PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:35:51 MyBookLive REST_API[5929]: Internal OUTPUT UserShares CREATESHARE PARAMS: (shareName=TimeMachineBackup, shareDescription=TimeMachine, publicAccess=true, mediaServing=none, remoteAccess=, dynamicVolume=false, capacity=, readOnly=, usbHandle=, fileSystemType=)
+Jun 16 02:35:51 MyBookLive REST_API[5929]: Internal OUTPUT UserSharesShell CREATESHARE PARAMS: (shareName=TimeMachineBackup, shareDescription=TimeMachine)
+Jun 16 02:35:51 MyBookLive REST_API[5929]: Internal OUTPUT Sharelist CREATESHARE PARAMS: (shareName=TimeMachineBackup, shareDescription=TimeMachine)
+Jun 16 02:35:51 MyBookLive REST_API[5929]: Internal OUTPUT Sharelist ISVALIDSHARENAME PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:35:51 MyBookLive REST_API[5929]: Internal OUTPUT Sharelist ISVALIDDESCRIPTION PARAMS: (shareName=TimeMachine)
+Jun 16 02:35:52 MyBookLive REST_API[5929]: Internal OUTPUT ShareAccessShell UPDATESHAREACCESS PARAMS: (shareName=TimeMachineBackup, publicAccess=true, mediaServing=none, remoteAccess=)
+Jun 16 02:35:52 MyBookLive REST_API[5929]: Internal OUTPUT Acllist MODIFYACL PARAMS: (share=TimeMachineBackup, remote_access=, public_access=true, media_serving=none)
+Jun 16 02:35:52 MyBookLive REST_API[5929]: Internal OUTPUT Acllist GETACLS PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:35:52 MyBookLive REST_API[5929]: Internal OUTPUT Acllist ISPRIVATESHARE PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:36:06 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent CHECKEULA NOT_FOUND
+Jun 16 02:36:07 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:07 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI SettingsController __CHECKLOGIN cookie ck= c=settings a=index 
+Jun 16 02:36:07 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:07 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:08 MyBookLive apache2[6187]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SettingsController __CHECKLOGIN cookie ck= c=settings a=system 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETUSAGE SUCCESS 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SettingsController SETUSAGEVALUES deviceCapacity=1988
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SystemApiComponent GET http://127.0.0.1/api/1.0/rest/time_machine?owner=admin&pw=
+Jun 16 02:36:09 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT Time_machine GET 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SystemApiComponent GET httpCode=200
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SystemApiComponent GET http://127.0.0.1/api/1.0/rest/time_machine?owner=admin&pw=
+Jun 16 02:36:09 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT Time_machine GET 
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SystemApiComponent GET httpCode=200
+Jun 16 02:36:09 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SharesApiComponent GET http://127.0.0.1/api/1.0/rest/shares?owner=admin&pw=
+Jun 16 02:36:09 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT UserShares GETSHARES PARAMS: (shareName=)
+Jun 16 02:36:09 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=Public)
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=SmartWare)
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=Public, userId=)
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=SmartWare, userId=)
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=TimeMachineBackup, userId=)
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SharesApiComponent GET httpCode=200
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETDATETIME SUCCESS 
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI FirmwareApiComponent GET http://127.0.0.1/api/1.0/rest/firmware_update_configuration?owner=admin&pw=
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT Firmware_update_configuration GET SUCCESS 
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI FirmwareApiComponent GET httpCode=200
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI FirmwareApiComponent GET http://127.0.0.1/api/1.0/rest/firmware_info?owner=admin&pw=
+Jun 16 02:36:10 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT Firmware_info GET SUCCESS 
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI FirmwareApiComponent GET httpCode=200
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT AlertsApiComponent GET SUCCESS 
+Jun 16 02:36:10 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETSTANDBY SUCCESS 
+Jun 16 02:36:11 MyBookLive apache2[6186]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI SettingsController __CHECKLOGIN cookie ck= c=settings a=network 
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT NetworkApiComponent GETCONFIG SUCCESS 
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT ServicesApiComponent GETFTP SUCCESS 
+Jun 16 02:36:11 MyBookLive REST_API[6186]: 192.168.0.254 WEBUI OUTPUT NetworkApiComponent GETWORKGROUP SUCCESS 
+Jun 16 02:36:12 MyBookLive apache2[6187]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:12 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:12 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI SettingsController __CHECKLOGIN cookie ck= c=settings a=utilities 
+Jun 16 02:36:12 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:12 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI UtilitiesApiComponent GET http://127.0.0.1/api/1.0/rest/smart_test2?owner=admin&pw=
+Jun 16 02:36:12 MyBookLive REST_API[6186]: 127.0.0.1 OUTPUT Smart_Test2 GET SUCCESS 
+Jun 16 02:36:12 MyBookLive REST_API[6187]: 192.168.0.254 WEBUI UtilitiesApiComponent GET httpCode=200
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI SettingsController __CHECKLOGIN cookie ck= c=settings a=remote_access 
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI RemoteAccessApiComponent GET http://127.0.0.1/api/1.0/rest/device?owner=admin&pw=
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI RemoteAccessApiComponent GET httpCode=200
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI RemoteAccessApiComponent GET http://127.0.0.1/api/1.0/rest/manual_port_forward?owner=admin&pw=
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI RemoteAccessApiComponent GET httpCode=200
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI RemoteAccessApiComponent GET http://127.0.0.1/api/1.0/rest/device_user?owner=admin&pw=
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI RemoteAccessApiComponent GET httpCode=200
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI UsersApiComponent GET http://127.0.0.1/api/1.0/rest/users?owner=admin&pw=
+Jun 16 02:36:15 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI UsersApiComponent GET httpCode=200
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SettingsController __CHECKLOGIN cookie ck= c=settings a=media 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT MediaServerApiComponent GETCONNECTEDDEVICES SUCCESS 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT MediaServerApiComponent GETCONFIG SUCCESS 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT MediaServerApiComponent GETSTATUS SUCCESS 
+Jun 16 02:36:17 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT MediaServerApiComponent GETITUNESSTATUS SUCCESS 
+Jun 16 02:36:17 MyBookLive apache2[6628]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI UsersController __CHECKLOGIN cookie ck= c=users a=index 
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI UsersApiComponent GET http://127.0.0.1/api/1.0/rest/users?owner=admin&pw=
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI UsersApiComponent GET httpCode=200
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETUSAGE SUCCESS 
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI UsersController SETUSAGEVALUES deviceCapacity=1988
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI SystemApiComponent GET http://127.0.0.1/api/1.0/rest/time_machine?owner=admin&pw=
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT Time_machine GET 
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI SystemApiComponent GET httpCode=200
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI SharesApiComponent GET http://127.0.0.1/api/1.0/rest/shares?owner=admin&pw=
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT UserShares GETSHARES PARAMS: (shareName=)
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=Public)
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=SmartWare)
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=Public, userId=)
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=SmartWare, userId=)
+Jun 16 02:36:18 MyBookLive REST_API[6629]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=TimeMachineBackup, userId=)
+Jun 16 02:36:18 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI SharesApiComponent GET httpCode=200
+Jun 16 02:36:19 MyBookLive apache2[6629]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:19 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:19 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SharesController __CHECKLOGIN cookie ck= c=shares a=index 
+Jun 16 02:36:19 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:19 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:19 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI UsersApiComponent GET http://127.0.0.1/api/1.0/rest/users?owner=admin&pw=
+Jun 16 02:36:19 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI UsersApiComponent GET httpCode=200
+Jun 16 02:36:20 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETUSAGE SUCCESS 
+Jun 16 02:36:20 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SharesController SETUSAGEVALUES deviceCapacity=1988
+Jun 16 02:36:20 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SystemApiComponent GET http://127.0.0.1/api/1.0/rest/time_machine?owner=admin&pw=
+Jun 16 02:36:20 MyBookLive REST_API[6628]: 127.0.0.1 OUTPUT Time_machine GET 
+Jun 16 02:36:20 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SystemApiComponent GET httpCode=200
+Jun 16 02:36:20 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SharesApiComponent GET http://127.0.0.1/api/1.0/rest/shares?owner=admin&pw=
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT UserShares GETSHARES PARAMS: (shareName=)
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=Public)
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=SmartWare)
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT UserSharesShell GETSHARESIZE PARAMS: (shareName=TimeMachineBackup)
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=Public, userId=)
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=SmartWare, userId=)
+Jun 16 02:36:20 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT ShareAccess GETACLFORSHARE PARAMS: (shareName=TimeMachineBackup, userId=)
+Jun 16 02:36:20 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI SharesApiComponent GET httpCode=200
+Jun 16 02:36:20 MyBookLive apache2[6628]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:20 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:20 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI BackupsController __CHECKLOGIN cookie ck= c=backups a=index 
+Jun 16 02:36:20 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:21 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
+Jun 16 02:36:21 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI BackupsApiComponent GETMANAGEDSAFEPOINTS in get managed sp
+Jun 16 02:36:21 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI BackupsApiComponent GET http://127.0.0.1/api/1.0/rest/safepoint_getlist?version=1.0&option=none&owner=admin&pw=
+Jun 16 02:36:21 MyBookLive REST_API[6820]: 127.0.0.1 PARAMETER SafePointGetList GET : version = 1.0
+Jun 16 02:36:21 MyBookLive REST_API[6820]: 127.0.0.1 PARAMETER SafePointGetList GET : option = none
+Jun 16 02:36:21 MyBookLive REST_API[6820]: 127.0.0.1 PARAMETER SafePointGetList GET : owner = admin
+Jun 16 02:36:21 MyBookLive REST_API[6820]: 127.0.0.1 PARAMETER SafePointGetList GET : pw = 
+Jun 16 02:36:22 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT SafePointGetList GET safeptExec.pl --operation=getlist --option='none' retVal:0:
+Jun 16 02:36:22 MyBookLive REST_API[6820]: 127.0.0.1 OUTPUT SafePointGetList GET SUCCESS 
+Jun 16 02:36:22 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI BackupsApiComponent GET httpCode=200
+Jun 16 02:36:22 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETDESCRIPTION SUCCESS 
+Jun 16 02:36:23 MyBookLive apache2[6629]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:23 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:23 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI BackupsController __CHECKLOGIN cookie ck= c=backups a=backup 
+Jun 16 02:36:23 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:23 MyBookLive REST_API[6629]: 192.168.0.254 WEBUI OUTPUT DeviceApiComponent GETUSAGE SUCCESS 
+Jun 16 02:36:24 MyBookLive REST_API[6629]: 192.168.0.254 OUTPUT Hidden_share_files GET SUCCESS 
+Jun 16 02:36:24 MyBookLive apache2[6820]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:24 MyBookLive REST_API[6820]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:24 MyBookLive REST_API[6820]: 192.168.0.254 WEBUI BackupsController __CHECKLOGIN cookie ck= c=backups a=safepoints 
+Jun 16 02:36:24 MyBookLive REST_API[6820]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:24 MyBookLive apache2[6820]: 192.168.0.254 WebUI::fw_version=02.43.10-048
+Jun 16 02:36:24 MyBookLive apache2[6628]: 192.168.0.254 WebUI::session_start()
+Jun 16 02:36:25 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT OwnerApiComponent GET SUCCESS 
+Jun 16 02:36:25 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI SupportController __CHECKLOGIN cookie ck= c=support a=index 
+Jun 16 02:36:25 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT UtilitiesApiComponent GETLANGUAGE SUCCESS 
+Jun 16 02:36:25 MyBookLive REST_API[6628]: 192.168.0.254 WEBUI OUTPUT SystemApiComponent GETINFO SUCCESS 
